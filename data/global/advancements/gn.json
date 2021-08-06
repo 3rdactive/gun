@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "gun",
+        "description": "Guns in mc? HUH?",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: '3rdactive'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
