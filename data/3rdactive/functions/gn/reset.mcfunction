@@ -6,3 +6,4 @@
 ##
 scoreboard objectives add snowballuuid dummy
 scoreboard objectives add mykindauuid dummy
+scoreboard objectives add grandadeTimer dummy
